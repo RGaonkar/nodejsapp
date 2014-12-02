@@ -7,4 +7,4 @@ var myServer = http.createServer(function(request, response){
 });
 
 myServer.listen(80);
-console.log("Go to http://localhost:3000");
+console.log("Go to http://localhost:80");
