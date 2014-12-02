@@ -6,5 +6,5 @@ var myServer = http.createServer(function(request, response){
 	response.end();
 });
 
-myServer.listen(3000);
+myServer.listen(80);
 console.log("Go to http://localhost:3000");
