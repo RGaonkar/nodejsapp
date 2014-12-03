@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "node_fbk",
   "version": "1.0.0",
   "description": "",
@@ -11,5 +12,20 @@
     "body-parser": "^1.10.0",
     "express": "^4.10.4",
     "mongodb": "^1.4.22"
+=======
+  "author": "Radhika Gaonkar <radhikag992@gmail.com>",
+  "name": "fbkLMS",
+  "description": "lms for delivery boy",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+>>>>>>> b16c56f5d57ca684fec1ef285e5e5c8b1fe1fc56
   }
 }
